@@ -58,8 +58,4 @@ Contributions, suggestions, and improvements are welcome. Feel free to open an i
 ## 👩‍💻 Authors
 
 * Susan Laime Lucero
-* ConectaLSB Development Team
-
-## 📄 License
-
-This project is intended for educational, research, and accessibility purposes.
+* Supported by Nos GUsta La Ciencia
