@@ -59,3 +59,7 @@ Contributions, suggestions, and improvements are welcome. Feel free to open an i
 
 * Susan Laime Lucero
 * Supported by Nos GUsta La Ciencia
+
+📄 License
+
+This project is intended for educational, research, and accessibility purposes.
